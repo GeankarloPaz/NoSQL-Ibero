@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663f0248bed23f0e59626e36"
+  },
+  "Nombre": "Hernando Patiño",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1c"
+  }
+},
+{
+  "_id": {
+    "$oid": "663f0248bed23f0e59626e37"
+  },
+  "Nombre": "Jorge Da Silva",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1e"
+  }
+},
+{
+  "_id": {
+    "$oid": "663f0248bed23f0e59626e38"
+  },
+  "Nombre": "Luis Fernando Montoya",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1d"
+  }
+},
+{
+  "_id": {
+    "$oid": "663f0248bed23f0e59626e39"
+  },
+  "Nombre": "Pablo Peirano",
+  "Equipo": {
+    "$oid": "663effddbed23f0e59626e34"
+  }
+},
+{
+  "_id": {
+    "$oid": "663f0248bed23f0e59626e3a"
+  },
+  "Nombre": "Pablo Repetto",
+  "Equipo": {
+    "$oid": "663effddbed23f0e59626e35"
+  }
+}]

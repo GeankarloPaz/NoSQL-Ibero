@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "663f04b9bed23f0e59626e40"
+  },
+  "Nombre": "Estadio olimpico Pascual Guerrero",
+  "Arbitro": "David Espinosa Lopera"
+},
+{
+  "_id": {
+    "$oid": "663f04b9bed23f0e59626e41"
+  },
+  "Nombre": "Estadio Centenario",
+  "Arbitro": "Juan Benitez"
+},
+{
+  "_id": {
+    "$oid": "663f04b9bed23f0e59626e42"
+  },
+  "Nombre": "Estadio el campin",
+  "Arbitro": "Wilmar Roldan"
+},
+{
+  "_id": {
+    "$oid": "663f04b9bed23f0e59626e43"
+  },
+  "Nombre": "Estadio Palogrande",
+  "Arbitro": "Cristian Aguirre"
+},
+{
+  "_id": {
+    "$oid": "663f04b9bed23f0e59626e44"
+  },
+  "Nombre": "Estadio Julio Martinez",
+  "Arbitro": "Nicolas Massu"
+}]

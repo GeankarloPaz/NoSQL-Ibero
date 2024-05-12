@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "663f031fbed23f0e59626e3b"
+  },
+  "Nombre": "Estadio Olimpico Pascual Guerrero",
+  "Ubicacion": "Cali"
+},
+{
+  "_id": {
+    "$oid": "663f031fbed23f0e59626e3c"
+  },
+  "Nombre": "Estadio Centenario",
+  "Ubicacion": "Armenia"
+},
+{
+  "_id": {
+    "$oid": "663f031fbed23f0e59626e3d"
+  },
+  "Nombre": "Estadio el Campin",
+  "Ubicacion": "Bogota"
+},
+{
+  "_id": {
+    "$oid": "663f031fbed23f0e59626e3e"
+  },
+  "Nombre": "Estadio Palogrande",
+  "Ubicacion": "Manizales"
+},
+{
+  "_id": {
+    "$oid": "663f031fbed23f0e59626e3f"
+  },
+  "Nombre": "Estadio Julio Martinez",
+  "Ubicacion": "Medellin"
+}]

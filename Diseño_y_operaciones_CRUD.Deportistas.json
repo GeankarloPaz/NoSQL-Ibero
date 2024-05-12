@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e52"
+  },
+  "Nombre": "Joaquin Papaleo",
+  "Rol": "Arquero",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1c"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e53"
+  },
+  "Nombre": "Carlos Gonzalez",
+  "Rol": "Centrocampista",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1c"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e54"
+  },
+  "Nombre": "Luis Sanchez",
+  "Rol": "Centrocampista",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1e"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e55"
+  },
+  "Nombre": "Jeison Lucumi",
+  "Rol": "Delantero",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1e"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e56"
+  },
+  "Nombre": "Nicolas Palacios",
+  "Rol": "Centrocampista",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1d"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e57"
+  },
+  "Nombre": "Juan Suarez",
+  "Rol": "Delantero",
+  "Equipo": {
+    "$oid": "663ee265bed23f0e59626e1e"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e58"
+  },
+  "Nombre": "Jefferson Duque",
+  "Rol": "Delantero",
+  "Equipo": {
+    "$oid": "663effddbed23f0e59626e35"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e59"
+  },
+  "Nombre": "Harlen Castillo",
+  "Rol": "Aquero",
+  "Equipo": {
+    "$oid": "663effddbed23f0e59626e35"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e5a"
+  },
+  "Nombre": "Marcelo Ortiz",
+  "Rol": "Defensa",
+  "Equipo": {
+    "$oid": "663effddbed23f0e59626e34"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ffc07bed23f0e59626e5b"
+  },
+  "Nombre": "Omar Perez",
+  "Rol": "CentroCampista",
+  "Equipo": {
+    "$oid": "663effddbed23f0e59626e34"
+  }
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663fed96bed23f0e59626e45"
+  },
+  "Liga": "Copa Libertadores",
+  "Club": "Once Caldas vs Nacional",
+  "Resultado": "1-1",
+  "Fecha": "21 Feb"
+},
+{
+  "_id": {
+    "$oid": "663fed96bed23f0e59626e46"
+  },
+  "Liga": "Copa Libertadores",
+  "Club": "America-Nacional",
+  "Resultado": "1-3",
+  "Fecha": "23 Marz"
+},
+{
+  "_id": {
+    "$oid": "663fed96bed23f0e59626e47"
+  },
+  "Liga": "Copa Libertadores",
+  "Club": "Santa fe-Nacional",
+  "Resultados": "1-1",
+  "Fecha": "17 Abr"
+},
+{
+  "_id": {
+    "$oid": "663fed96bed23f0e59626e48"
+  },
+  "Liga": "Copa Libertadores",
+  "Club": "Santa fe- Cali",
+  "Resultados": "1-0",
+  "Fecha": "21 Abr"
+},
+{
+  "_id": {
+    "$oid": "663fed96bed23f0e59626e49"
+  },
+  "Liga": "Copa Libertadores",
+  "Club": "Nacional-Santa fe",
+  "Resultados": "0-0",
+  "Fecha": "12 Mar"
+}]

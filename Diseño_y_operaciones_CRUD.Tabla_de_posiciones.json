@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663ff3a2bed23f0e59626e4d"
+  },
+  "Club": "Nacional",
+  "Puntos": "6",
+  "Posicion": "1"
+},
+{
+  "_id": {
+    "$oid": "663ff3a2bed23f0e59626e4e"
+  },
+  "Club": "Cali",
+  "Puntos": "2",
+  "Posicion": "2"
+},
+{
+  "_id": {
+    "$oid": "663ff3a2bed23f0e59626e4f"
+  },
+  "Club": "America",
+  "Puntos": "2",
+  "Posicion": "3"
+},
+{
+  "_id": {
+    "$oid": "663ff3a2bed23f0e59626e50"
+  },
+  "Club": "Santa Fe",
+  "Puntos": "1",
+  "Posicion": "4"
+},
+{
+  "_id": {
+    "$oid": "663ff3a2bed23f0e59626e51"
+  },
+  "Club": "Once Caldas",
+  "Puntos": "1",
+  "Posicion": "5"
+}]

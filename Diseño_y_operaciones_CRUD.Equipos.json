@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "663effddbed23f0e59626e31"
+  },
+  "Nombre": "Cali",
+  "Pais": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663effddbed23f0e59626e32"
+  },
+  "Nombre": "Once Caldas",
+  "Pais": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663effddbed23f0e59626e33"
+  },
+  "Nombre": "America",
+  "Pais": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663effddbed23f0e59626e34"
+  },
+  "Nombre": "Santa Fe",
+  "Pais": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663effddbed23f0e59626e35"
+  },
+  "Nombre": "Nacional",
+  "Pais": "Colombia"
+}]
